@@ -1,12 +1,12 @@
 - 👋 Hola,mi nombre es Carmen Ramírez 
 - 👀 Mis intereses son ...     
-Gym🏋‍♀️ y la programación👩‍💻.
+- Gym🏋‍♀️ y la programación👩‍💻.
 - 🌱 Estoy aprendiendo...
-Data science 💻, ingles 🆒️🇦🇨.
+- Data science 💻, ingles 🆒️🇦🇨.
 - 💞️ Me gustaría colaborar en...     
-Analisis de datos💻, Desarrollo💡.
+- Analisis de datos💻, Desarrollo💡.
 - 📫 Me puedes contactar...      
-carramirezleal@gmail.com
+-carramirezleal@gmail.com
 
 <!---
 angeladuvi/angeladuvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
