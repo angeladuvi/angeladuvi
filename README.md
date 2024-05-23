@@ -5,8 +5,8 @@
 - Data science 💻, ingles 🆒️🇦🇨.
 - 💞️ Me gustaría colaborar en...     
 - Analisis de datos💻, Desarrollo💡.
-- 📫 Me puedes contactar...      
--carramirezleal@gmail.com
+- 📫 Me puedes contactar en ...      
+- cramirezleal05@gmail.com
 
 <!---
 angeladuvi/angeladuvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
